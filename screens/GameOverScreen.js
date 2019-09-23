@@ -6,7 +6,7 @@ import {
   Image, 
   StyleSheet, 
   Dimensions,
-  ScrollView 
+  ScrollView, 
 } from 'react-native';
 
 import BodyText from '../components/BodyText';
